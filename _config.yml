@@ -22,10 +22,10 @@ repository               : "bhsoc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bing_profile.png"
   name             : "Bing Han (韩冰)"
   pronouns         : "(she/her)"  
-  bio              : "Dual-title PhD Candidate \nin Sociology and Gerontology"
+  bio              : "Dual-title PhD Candidate \n in Sociology and Gerontology"
   location         : "West Lafayette"
   employer         : "Purdue University"
   uri              : # URL
