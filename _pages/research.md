@@ -4,7 +4,7 @@ title: "Publications and Research Projects"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /
+  - /researchs
 ---
 
 {% include base_path %}
