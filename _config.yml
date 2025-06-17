@@ -29,7 +29,7 @@ author:
   location         : "West Lafayette"
   employer         : "Purdue University"
   uri              : # URL
-  email            : "han644 [at] purdue [dot] edu" 
+  email            : "han644@purdue.edu" 
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-6656-7761"
   semantic         : # URL
   pubmed           : 
-  researchgate     : " " # URL
+  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/bing-han-4255b2201/" # Username
+  linkedin         : "https://www.linkedin.com/in/bing-han-soc" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
