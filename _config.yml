@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Bing Han (韩冰)"
-  pronouns         : "she/her"  
-  bio              : "Dual-title PhD Candidate in Sociology and Gerontology"
+  pronouns         : "(she/her)"  
+  bio              : "Dual-title PhD Candidate \nin Sociology and Gerontology"
   location         : "West Lafayette"
   employer         : "Purdue University"
   uri              : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/bing-han-soc" # Username
+  linkedin         : "bing-han-soc" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
