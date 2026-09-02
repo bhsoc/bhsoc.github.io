@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Bing Han"
 layout: plain
 redirect_from: 
   - /about/
@@ -8,7 +7,7 @@ redirect_from:
 ---
 
 <div class="intro" markdown="1">
-<div class="intro__photo">
+<div class="intro__photo intro__photo--lg">
 <img src="/images/profile.png" alt="Bing Han">
 </div>
 <div class="intro__text" markdown="1">
@@ -17,13 +16,23 @@ I am a Postdoctoral Scholar at the Population Research Institute, The Pennsylvan
 
 I am a medical sociologist and quantitative methodologist. My research asks how health behaviors and age become bases of stigma, and how gender, race and ethnicity, social relationships, and environments shape health and cognitive functioning across the life course. I use survey experiments, longitudinal data, and computational methods.
 
-With [Trenton Mize](https://www.trentonmize.com), I co-developed the Stata commands `meinequality` and `totalme` for summarizing effects of categorical and ordinal variables. See [Programs](/programs/) for details.
-
-My dissertation received the American Sociological Association Sociology of Mental Health Section's Best Dissertation Award and Purdue's Distinguished Dissertation Award.
+My dissertation received the American Sociological Association Sociology of Mental Health Section's Best Dissertation Award and Purdue's Distinguished Dissertation Award. Contact me: bhan [at] psu [dot] edu
 
 </div>
 </div>
 
-<p class="contact-heading">Contact Information</p>
+## Academic Appointments
 
-email: [bhan@psu.edu](mailto:bhan@psu.edu)
+2025– &nbsp; Postdoctoral Scholar, Population Research Institute, The Pennsylvania State University
+
+## Education
+
+2025 &nbsp; Dual-title Ph.D., Sociology and Gerontology, Purdue University
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 Graduate Certificate, Applied Statistics
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 Graduate Certificate, Advanced Methodologies of the Behavioral, Health, and Social Sciences
+
+2022 &nbsp; M.S., Sociology, Purdue University
+
+2018 &nbsp; M.S., Human Geography, Zhejiang University
+
+2015 &nbsp; B.S., Geographic Information Science, Lanzhou University

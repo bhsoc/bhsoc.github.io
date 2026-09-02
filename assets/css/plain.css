@@ -149,7 +149,11 @@ a:hover {
 .intro__photo {
   flex: 0 0 auto;
   width: 100%;
-  max-width: 240px;
+  max-width: 280px;
+}
+
+.intro__photo--lg {
+  max-width: 340px;
 }
 
 .intro__photo img {
