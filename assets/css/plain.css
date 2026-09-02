@@ -19,12 +19,12 @@ body {
 }
 
 a {
-  color: #1155cc;
+  color: #7E8071;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #0b3d91;
+  color: #A76B56;
 }
 
 /* ---------- Header / nav ---------- */
@@ -34,9 +34,9 @@ a:hover {
 }
 
 .site-header__inner {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0.9em 1.5em;
+  width: 100%;
+  margin: 0;
+  padding: 0.9em 2em;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -74,14 +74,14 @@ a:hover {
 .site-main {
   max-width: 900px;
   margin: 0 auto;
-  padding: 2.5em 1.5em 5em;
+  padding: 6.5em 1.5em 5em;
 }
 
 .page-title {
   font-family: inherit;
   font-weight: 400;
   font-size: 2.6rem;
-  color: #1155cc;
+  color: #808C97;
   margin: 0.2em 0 0.8em;
   line-height: 1.15;
 }
@@ -93,7 +93,7 @@ a:hover {
 .page-content h2 {
   font-size: 1.15rem;
   font-weight: 700;
-  color: #990000;
+  color: #A76B56;
   margin: 1.8em 0 0.6em;
 }
 
