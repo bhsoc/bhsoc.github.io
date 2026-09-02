@@ -1,20 +1,18 @@
 ---
 title: "Curriculum Vitae"
 permalink: /cv/
-layout: minimal
+layout: plain
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Last updated: September 2026. Click here for a pdf version of my [CV](bing_cv.pdf).
 
-### Academic Appointments
+## Academic Appointments
 
 2025– &nbsp; Postdoctoral Scholar, Population Research Institute, The Pennsylvania State University
 
-### Education
+## Education
 
 2025 &nbsp; Dual-title Ph.D., Sociology and Gerontology, Purdue University
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 Graduate Certificate, Applied Statistics
@@ -26,9 +24,9 @@ Last updated: September 2026. Click here for a pdf version of my [CV](bing_cv.pd
 
 2015 &nbsp; B.S., Geographic Information Science, Lanzhou University
 
-### Research
+## Research
 
-**Peer-Reviewed Journal Articles**
+### Peer-Reviewed Journal Articles
 
 1. Han, Bing. Forthcoming. "How Health Behaviors Combine to Produce Stigma: A Health Lifestyle Perspective on Social Judgments." *Journal of Health and Social Behavior*.
 2. Han, Bing and Trenton D. Mize. 2026. "Doing Gender, Doing Health: Disentangling the Relationship between Gender and Health Lifestyles." *Social Science Research* 139:103415.
@@ -43,11 +41,11 @@ Last updated: September 2026. Click here for a pdf version of my [CV](bing_cv.pd
 
 *† equal contribution*
 
-**Book Chapters**
+### Book Chapters
 
 1. Mize, Trenton D. and Bing Han. Forthcoming. "Marginal Effects: A Flexible Method of Interpretation Across Linear and Nonlinear Models." In *Handbook on Data Modeling and Data Analysis*. Cheltenham, UK: Edward Elgar Publishing.
 
-**Manuscripts Under Review**
+### Manuscripts Under Review
 
 1. Han, Bing. "Moralized Health Behaviors: Norm Violations, Stigma Profiles, and the Contestation of Social Judgment." *Society and Mental Health*.
 2. Han, Bing. "Behavior Over Status: When Age and Gender Do and Do Not Moderate Health Behavior Stigma." *Sociological Forum*.
@@ -57,13 +55,13 @@ Last updated: September 2026. Click here for a pdf version of my [CV](bing_cv.pd
 6. Ho, Li-Chih, Bing Han, Shang-Ti Chen, Hsia Li, and Po-Ju Chang. "When Should Urban Green-Space Measures Correspond? A Multimethod Study of Older Adults' Appraisals and Reported Use." *Environment and Behavior*.
 7. He, Ranran, Danielle Kane, and Bing Han. "Gender, Education, and Intrahousehold Property Ownership in China." *Journal of Marriage and Family*.
 
-### Software and Data
+## Software and Data
 
 1. Han, Bing and Trenton D. Mize. 2025. `meinequality`: Stata command for inequality summary effects of nominal and ordinal independent variables. See [Programs](/programs/).
 2. Han, Bing and Trenton D. Mize. 2025. `totalme`: Stata command for calculating holistic effect size measures for nominal and ordinal outcome models. See [Programs](/programs/).
 3. Yang, Fenggang, Kim-Kwong Chan, Charles Chang, Bing Han, and Yuanfei Li. 2022. "Online Spiritual Atlas of the Global East - Hong Kong (OSAGE-HK) Data." Purdue University Research Repository.
 
-### Awards
+## Awards
 
 2026 &nbsp; Best Dissertation Award, Sociology of Mental Health Section, American Sociological Association
 
@@ -75,7 +73,7 @@ Last updated: September 2026. Click here for a pdf version of my [CV](bing_cv.pd
 
 2025 &nbsp; Outstanding Graduate Student Paper Award (with Jiayin Hu), Department of Sociology, Purdue University
 
-### Grants & Funding
+## Grants & Funding
 
 Robert L. Eichhorn Award in Medical Sociology (PI), Department of Sociology, Purdue University. "Intersecting Stigmas: Understanding the Social Costs of Health Lifestyles during the Life Course." ($5,000) 2025
 
@@ -83,7 +81,7 @@ Walter Hirsch Graduate Student Dissertation Award (PI), Department of Sociology,
 
 Lois K. Cohen Graduate Education Endowment for Global Health in Sociology Award (PI), Department of Sociology, Purdue University. ($2,865, 2024; $4,000, 2023)
 
-### Teaching Experience
+## Teaching Experience
 
 Instructor of Record, Purdue University
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SOC 374: Medical Sociology, 2024
@@ -100,7 +98,7 @@ Guest Lecturer, SOC 686: Qualitative Methods, Purdue University, 2024, 2025
 
 Teaching Assistant, SOC 220: Social Problems, Purdue University, 2020, 2021
 
-### Conference Presentations
+## Conference Presentations
 
 - 2026: Group Processes Conference; American Sociological Association Annual Meeting
 - 2025: Group Processes Conference; American Sociological Association Annual Meeting; Population Association of America Annual Meeting
@@ -108,7 +106,7 @@ Teaching Assistant, SOC 220: Social Problems, Purdue University, 2020, 2021
 - 2023: International Chinese Sociological Association Annual Meeting; American Sociological Association Annual Meeting; Society for the Study of Social Problems Annual Meeting; Population Association of America Annual Meeting
 - 2022: Add Health Users Conference
 
-### Service
+## Service
 
 American Sociological Association: Graduate Student Advisory Committee, Social Psychology Section, Chair (2025–2026), Member (2024–2025); Roundtable Presider, Medical Sociology Section (2026), Sociology of Population Section (2024, 2025)
 
@@ -116,6 +114,6 @@ Sociology Graduate Student Organization, Purdue University: President (2024–20
 
 Ad hoc reviewer: *Chinese Sociological Review*, *Chinese Journal of Sociology*, *Applied Psychology: Health and Well-Being*, *BMC Geriatrics*
 
-### Professional Memberships
+## Professional Memberships
 
 American Sociological Association; Gerontological Society of America; Population Association of America

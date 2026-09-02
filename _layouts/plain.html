@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} &ndash; {% endif %}{{ site.author.name }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/plain.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="site-logo" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="is-active"{% endif %}>{{ site.author.name }}</a>
+        <a href="{{ '/cv/' | relative_url }}"{% if page.url == '/cv/' %} class="is-active"{% endif %}>Curriculum Vitae</a>
+        <a href="{{ '/programs/' | relative_url }}"{% if page.url == '/programs/' %} class="is-active"{% endif %}>Programs</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    {% if page.title %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+    <div class="page-content">
+      {{ content }}
+    </div>
+  </main>
+</body>
+</html>
