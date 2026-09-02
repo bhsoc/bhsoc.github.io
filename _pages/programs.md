@@ -13,5 +13,3 @@ Han, Bing and Trenton D. Mize. 2025. "[meinequality: Stata Command for Inequalit
 **totalme**, also co-developed with Trenton D. Mize, is a companion Stata command that calculates total marginal effect summary measures for nominal and ordinal outcome variables.
 
 Han, Bing and Trenton D. Mize. 2025. "[totalme: Stata Command for Calculating Holistic Effect Size Measures for Nominal and Ordinal Outcome Models](https://www.trentonmize.com/software/totalme)."
-
-Both commands are publicly available; installation instructions and documentation will be posted here.

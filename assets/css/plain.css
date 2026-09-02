@@ -81,7 +81,7 @@ a:hover {
   font-family: inherit;
   font-weight: 400;
   font-size: 2.6rem;
-  color: #808C97;
+  color: #E8A98D;
   margin: 0.2em 0 0.8em;
   line-height: 1.15;
 }
@@ -93,7 +93,7 @@ a:hover {
 .page-content h2 {
   font-size: 1.15rem;
   font-weight: 700;
-  color: #A76B56;
+  color: #C4726A;
   margin: 1.8em 0 0.6em;
 }
 
@@ -135,7 +135,7 @@ a:hover {
 .intro {
   display: flex;
   flex-direction: column;
-  gap: 3em;
+  gap: 6em;
   align-items: center;
   margin-bottom: 1.5em;
 }

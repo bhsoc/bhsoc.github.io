@@ -4,11 +4,14 @@ permalink: /teaching/
 layout: plain
 ---
 
-## Independent Instructor
+## Instructor of Record
 
-- SOC 374: Medical Sociology (Instructor of Record), Purdue University
-- SOC 578: Multilevel Regression Models (Guest Lecturer), The Pennsylvania State University
-- SOC 686: Qualitative Methods (Guest Lecturer), Purdue University
+- SOC 374: Medical Sociology, Purdue University
+
+## Guest Lecturer
+
+- SOC 578: Multilevel Regression Models, The Pennsylvania State University
+- SOC 686: Qualitative Methods, Purdue University
 
 ## Teaching Assistant
 

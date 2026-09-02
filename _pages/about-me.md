@@ -12,18 +12,16 @@ Methodologically, my work lies at the intersection of quantitative sociology, so
 
 ## Academic Appointments
 
-**2025–present** &nbsp; Postdoctoral Scholar
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Population Research Institute, The Pennsylvania State University
+<div class="cv-entry"><div class="cv-entry__year">2025–present</div><div class="cv-entry__desc"><strong>Postdoctoral Scholar</strong><br>Population Research Institute, The Pennsylvania State University</div></div>
 
 ## Education
 
-**2025** &nbsp; Dual-title Ph.D. in Sociology and Gerontology, Purdue University
+<div class="cv-entry"><div class="cv-entry__year">2025</div><div class="cv-entry__desc">Dual-title Ph.D. in Sociology and Gerontology, Purdue University</div></div>
 
-**2023** &nbsp; Graduate Certificate in Applied Statistics, Purdue University
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate Certificate in Advanced Methodologies of the Behavioral, Health, and Social Sciences, Purdue University
+<div class="cv-entry"><div class="cv-entry__year">2023</div><div class="cv-entry__desc">Graduate Certificate in Applied Statistics, Purdue University<br>Graduate Certificate in Advanced Methodologies of the Behavioral, Health, and Social Sciences, Purdue University</div></div>
 
-**2022** &nbsp; M.S. in Sociology, Purdue University
+<div class="cv-entry"><div class="cv-entry__year">2022</div><div class="cv-entry__desc">M.S. in Sociology, Purdue University</div></div>
 
-**2018** &nbsp; M.S. in Human Geography, Zhejiang University
+<div class="cv-entry"><div class="cv-entry__year">2018</div><div class="cv-entry__desc">M.S. in Human Geography, Zhejiang University</div></div>
 
-**2015** &nbsp; B.S. in Geographic Information Science, Lanzhou University
+<div class="cv-entry"><div class="cv-entry__year">2015</div><div class="cv-entry__desc">B.S. in Geographic Information Science, Lanzhou University</div></div>
