@@ -12,7 +12,7 @@ Methodologically, my work lies at the intersection of quantitative sociology, so
 
 ## Academic Appointments
 
-<div class="cv-entry"><div class="cv-entry__year">2025–present</div><div class="cv-entry__desc"><strong>Postdoctoral Scholar</strong><br>Population Research Institute, The Pennsylvania State University</div></div>
+<div class="cv-entry"><div class="cv-entry__year">2025–</div><div class="cv-entry__desc"><strong>Postdoctoral Scholar</strong><br>Population Research Institute, The Pennsylvania State University</div></div>
 
 ## Education
 

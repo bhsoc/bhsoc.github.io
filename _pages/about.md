@@ -15,9 +15,7 @@ I am a medical sociologist and quantitative methodologist studying how social ju
 
 My dissertation received the 2026 Best Dissertation Award from the American Sociological Association's Sociology of Mental Health Section and a Distinguished Dissertation Award from Purdue University's College of Liberal Arts.
 
+<span class="contact-heading">Contact Information</span><br>email: bhan [at] psu [dot] edu
+
 </div>
 </div>
-
-<p class="contact-heading">Contact Information</p>
-
-email: bhan [at] psu [dot] edu
