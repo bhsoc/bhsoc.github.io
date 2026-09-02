@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Bing Han"
 title_separator          : "-"
 name                     : &name "Bing Han"
-description              : &description "Dual-title PhD Candidate in Sociology and Gerontology"
+description              : &description "Postdoctoral Scholar, Population Research Institute, Penn State — Medical Sociology, Aging & the Life Course, Quantitative Methods"
 url                      : https://bhsoc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bhsoc.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Bing Han"
   pronouns         : "(she/her)"  
-  bio              : "Dual-title PhD Candidate<br>in Sociology and Gerontology"
-  location         : "West Lafayette, IN"
-  employer         : "Purdue University"
+  bio              : "Postdoctoral Scholar<br>Population Research Institute, Penn State"
+  location         : "State College, PA"
+  employer         : "The Pennsylvania State University"
   uri              : # URL
-  email            : "han644@purdue.edu" 
+  email            : "bhan@psu.edu" 
 
   # Academic websites
   academia         : # URL
@@ -78,12 +78,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Peer-Reviewed Journal Articles'
+  books:
+    title: 'Book Chapters'
+  underreview:
+    title: 'Manuscripts Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
