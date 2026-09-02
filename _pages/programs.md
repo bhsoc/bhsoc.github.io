@@ -1,8 +1,7 @@
 ---
-layout: archive
 title: "Programs"
 permalink: /programs/
-author_profile: true
+layout: minimal
 ---
 
 {% include base_path %}
