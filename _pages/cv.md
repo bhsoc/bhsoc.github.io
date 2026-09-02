@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-Click here for a pdf version of my [CV](bing_cv.pdf).
+Click here for a pdf version of my [CV](/_pages/bing_cv.pdf), or see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=cd0Qp4UAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Awards
 

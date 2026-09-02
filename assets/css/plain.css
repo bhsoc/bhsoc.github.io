@@ -77,6 +77,10 @@ a:hover {
   padding: 6.5em 1.5em 5em;
 }
 
+.site-main--home {
+  max-width: 1150px;
+}
+
 .page-title {
   font-family: inherit;
   font-weight: 400;
@@ -135,7 +139,7 @@ a:hover {
 .intro {
   display: flex;
   flex-direction: column;
-  gap: 4.2em;
+  gap: 2.5em;
   align-items: center;
   margin-bottom: 1.5em;
 }
