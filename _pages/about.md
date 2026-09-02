@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="intro" markdown="1">
-<div class="intro__photo">
+<div class="intro__photo" markdown="1">
 
 ![Bing Han](/images/profile.png)
 
