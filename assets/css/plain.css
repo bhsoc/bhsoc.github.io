@@ -135,14 +135,15 @@ a:hover {
 .intro {
   display: flex;
   flex-direction: column;
-  gap: 1.5em;
-  align-items: flex-start;
+  gap: 3em;
+  align-items: center;
   margin-bottom: 1.5em;
 }
 
 @media (min-width: 640px) {
   .intro {
     flex-direction: row;
+    align-items: center;
   }
 }
 
@@ -168,4 +169,19 @@ a:hover {
 
 .contact-heading {
   font-weight: 700;
+}
+
+/* ---------- Year + description entries (Awards, Grants, etc.) ---------- */
+
+.cv-entry {
+  display: flex;
+  margin-bottom: 1.2em;
+}
+
+.cv-entry__year {
+  flex: 0 0 6.5em;
+}
+
+.cv-entry__desc {
+  flex: 1 1 auto;
 }
