@@ -116,6 +116,14 @@ a:hover {
   margin: 1.2em 0 0.4em;
 }
 
+.cv-embed {
+  width: 100%;
+  height: 85vh;
+  min-height: 600px;
+  border: 1px solid #e0e0e0;
+  margin-top: 1.5em;
+}
+
 .page-content ul,
 .page-content ol {
   margin: 0 0 1.2em;
