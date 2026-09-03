@@ -178,6 +178,7 @@ a:hover {
 
 .intro__text {
   flex: 1 1 auto;
+  max-width: 570px;
 }
 
 .contact-heading {
